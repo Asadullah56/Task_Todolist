@@ -94,7 +94,7 @@ def main():
     st.title("✨ Todo App")
     st.write("### Welcome to Todo App! 🌈")
     st.write("This simple but powerful todo application helps you stay organized and productive.")
-    st.write("Created by: Zakia Bashir")
+    st.write("Created by: Asad Panhwar")
     st.write("---")
     # Initialize session state for todos if it doesn't exist
     if 'todos' not in st.session_state:
